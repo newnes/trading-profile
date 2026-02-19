@@ -8,8 +8,8 @@ Developer of scalable trading bots and a core algorithmic framework for systemat
 
 ## Certifications
 
-- 📜 [RoboTrader Diploma 2023](./Robotrader_2023.pdf)
-- 📜 [RoboTrader Diploma 2025](./Robotrader_2025.pdf)
-- 🏆 [FundedNext Certificate 2025](./FundedNext_2025.pdf)
+- 📜 [RoboTrader Certificate (2023)](./Robotrader_2023.pdf)
+- 📜 [RoboTrader Certificate (2025)](./Robotrader_2025.pdf)
+- 🏆 [FundedNext Certificate (2025)](./FundedNext_2025.pdf)
 
 

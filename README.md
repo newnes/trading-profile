@@ -32,41 +32,15 @@ A quantitative capital allocation framework designed for individuals operating u
 
 Traditional portfolio optimization models implicitly assume long or indefinite horizons and prioritize volatility-adjusted performance metrics. FLCO reformulates the objective function by explicitly incorporating lifetime uncertainty as a stochastic constraint in the decision process.
 
-Instead of maximizing return per unit of variance, FLCO defines the optimization problem as:
+Instead of maximizing return per unit of variance, FLCO defines the optimization objective as:
 
-max
-⁡
-𝜋
-𝑃
-(
-𝜏
-𝜋
-≤
-𝑇
-)
-π
-max
-	​
-
-P(τ
-π
-	​
-
-≤T)
+Maximize:
+P( τ_π ≤ T )
 
 Where:
 
-𝜏
-𝜋
-τ
-π
-	​
+τ_π = stopping time required for strategy π to reach a predefined wealth target
 
- = stopping time required for strategy 
-𝜋
-π to reach a predefined wealth target
-
-𝑇
 T = remaining lifetime modeled as a random variable
 
 Under this framework, strategy evaluation emphasizes:

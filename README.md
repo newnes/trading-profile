@@ -26,10 +26,6 @@ Comparative evaluation between public pivot point models and a proprietary proxi
 **Sonification of financial time series through spectral analysis and musical note mapping.**  
 This project transforms percentage changes in financial time series into audible frequencies using harmonic proportions and fundamental frequency detection. It generates both a CSV file with the mapped notes and a WAV audio file for auditory analysis.
 
-**Listen to an example:**  
-[![NOVA - The Symphony of the Bullish and Bearish](https://img.youtube.com/vi/k4zKi3tx3fU/0.jpg)](https://www.youtube.com/watch?v=k4zKi3tx3fU)  
-*Click the image to hear the sonification of market data (May 2023).*
-
 ---
 
 ## Research Frameworks

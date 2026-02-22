@@ -16,16 +16,17 @@ Developer of scalable trading bots and a core algorithmic framework for systemat
 
 ## Featured Projects
 
-### 🔹 [MQL5 Projects](https://github.com/newnes/MT5-Projects)
-MKTS-Projects: A quantitative research lab fusing fractal mathematics and capital flow analysis to build advanced trading tools and indicators.
-
-### 🔹 [Comparative Pivot Point Models](https://github.com/newnes/Comparative-Pivot-Point-Models)
-Comparative evaluation between public pivot point models and a proprietary proximity-based model across 482 trading days (SPY ETF, 1-min timeframe).
 
 ### 🔹 [Time Series Sound](https://github.com/newnes/Time-Series-Sound)
 **Sonification of financial time series through spectral analysis and musical note mapping.**  
 
 This project transforms percentage changes in financial time series into audible frequencies using harmonic proportions and fundamental frequency detection. It generates both a CSV file with the mapped notes and a WAV audio file for auditory analysis.
+
+### 🔹 [Comparative Pivot Point Models](https://github.com/newnes/Comparative-Pivot-Point-Models)
+Comparative evaluation between public pivot point models and a proprietary proximity-based model across 482 trading days (SPY ETF, 1-min timeframe).
+
+### 🔹 [MQL5 Projects](https://github.com/newnes/MT5-Projects)
+MKTS-Projects: A quantitative research lab fusing fractal mathematics and capital flow analysis to build advanced trading tools and indicators.
 
 ---
 

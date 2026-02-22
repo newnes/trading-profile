@@ -55,7 +55,7 @@ Under this framework, strategy evaluation emphasizes:
 
 FLCO integrates stochastic growth theory, convex payoff dynamics, and mortality-adjusted decision modeling into a unified framework for accelerated wealth transformation.
 
-📌 Whitepaper, mathematical formalization, and Monte Carlo simulations in development.
+📌 Whitepaper, mathematical formalization, and simulations in development.
 ---
 
 ## 📫 How to reach me

@@ -24,6 +24,7 @@ Comparative evaluation between public pivot point models and a proprietary proxi
 
 ### 🔹 [Time Series Sound](https://github.com/newnes/Time-Series-Sound)
 **Sonification of financial time series through spectral analysis and musical note mapping.**  
+
 This project transforms percentage changes in financial time series into audible frequencies using harmonic proportions and fundamental frequency detection. It generates both a CSV file with the mapped notes and a WAV audio file for auditory analysis.
 
 ---

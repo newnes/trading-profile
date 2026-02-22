@@ -22,6 +22,14 @@ MKTS-Projects: A quantitative research lab fusing fractal mathematics and capita
 ### 🔹 [Comparative-Pivot-Point-Models](https://github.com/newnes/Comparative-Pivot-Point-Models)
 Comparative evaluation between public pivot point models and a proprietary proximity-based model across 482 trading days (SPY ETF, 1-min timeframe).
 
+### 🔹 [Series Sound](https://github.com/newnes/series-sound)
+**Sonification of financial time series through spectral analysis and musical note mapping.**  
+This project transforms percentage changes in financial time series into audible frequencies using harmonic proportions and fundamental frequency detection. It generates both a CSV file with the mapped notes and a WAV audio file for auditory analysis.
+
+**Listen to an example:**  
+[![NOVA - The Symphony of the Bullish and Bearish](https://img.youtube.com/vi/k4zKi3tx3fU/0.jpg)](https://www.youtube.com/watch?v=k4zKi3tx3fU)  
+*Click the image to hear the sonification of market data (May 2023).*
+
 ---
 
 ## Research Frameworks
@@ -34,28 +42,32 @@ Traditional portfolio optimization models implicitly assume long or indefinite h
 
 Instead of maximizing return per unit of variance, FLCO defines the optimization objective as:
 
-Maximize:
-P( τ_π ≤ T )
+**Maximize:**  
+`P( τ_π ≤ T )`
 
-Where:
+Where:  
+- `τ_π` = stopping time required for strategy `π` to reach a predefined wealth target  
+- `T` = remaining lifetime modeled as a random variable
 
-τ_π = stopping time required for strategy π to reach a predefined wealth target
-
-T = remaining lifetime modeled as a random variable
-
-Under this framework, strategy evaluation emphasizes:
-
-Positive convexity and asymmetric payoff structures
-
-Geometric growth rate (GHPR)
-
-Probability of ruin and capital survivability
-
-Inter-arrival time of extreme gains
-
-Cross-regime robustness
+Under this framework, strategy evaluation emphasizes:  
+- Positive convexity and asymmetric payoff structures  
+- Geometric growth rate (GHPR)  
+- Probability of ruin and capital survivability  
+- Inter-arrival time of extreme gains  
+- Cross-regime robustness
 
 FLCO integrates stochastic growth theory, convex payoff dynamics, and mortality-adjusted decision modeling into a unified framework for accelerated wealth transformation.
 
 📌 Whitepaper, mathematical formalization, and Monte Carlo simulations in development.
 ---
+
+## 📫 How to reach me
+
+- GitHub: [@newnes](https://github.com/newnes)
+- Linkedin: linkedin.com/in/nestor-mendez-boza
+- YouTube: [NOVA – Algorithmic Sound](https://www.youtube.com/watch?v=k4zKi3tx3fU)
+- Email: nestor.boza@gmail.com
+
+---
+
+*This profile is a living document. New projects and frameworks are added as they evolve.*

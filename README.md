@@ -16,10 +16,10 @@ Developer of scalable trading bots and a core algorithmic framework for systemat
 
 ## Featured Projects
 
-### 🔹 [MQL5-Projects](https://github.com/newnes/MT5-Projects)
+### 🔹 [MQL5 Projects](https://github.com/newnes/MT5-Projects)
 MKTS-Projects: A quantitative research lab fusing fractal mathematics and capital flow analysis to build advanced trading tools and indicators.
 
-### 🔹 [Comparative-Pivot-Point-Models](https://github.com/newnes/Comparative-Pivot-Point-Models)
+### 🔹 [Comparative Pivot Point Models](https://github.com/newnes/Comparative-Pivot-Point-Models)
 Comparative evaluation between public pivot point models and a proprietary proximity-based model across 482 trading days (SPY ETF, 1-min timeframe).
 
 ### 🔹 [Time Series Sound](https://github.com/newnes/Time-Series-Sound)

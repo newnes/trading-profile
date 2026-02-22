@@ -26,7 +26,7 @@ This project transforms percentage changes in financial time series into audible
 Comparative evaluation between public pivot point models and a proprietary proximity-based model across 482 trading days (SPY ETF, 1-min timeframe).
 
 ### 🔹 [MQL5 Projects](https://github.com/newnes/MT5-Projects)
-MKTS-Projects: A quantitative research lab fusing fractal mathematics and capital flow analysis to build advanced trading tools and indicators.
+MQL5-Projects: A quantitative research lab fusing fractal mathematics and capital flow analysis to build advanced trading indicators.
 
 ---
 
